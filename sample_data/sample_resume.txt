@@ -1,0 +1,38 @@
+ALEX CHEN
+San Francisco, CA | alex.chen@email.com | (555) 234-5678 | linkedin.com/in/alexchen-ai | github.com/alexchen-dev
+
+PROFESSIONAL SUMMARY
+Results-driven AI & Full-Stack Software Engineer with 4+ years of experience designing and deploying scalable machine learning models, retrieval-augmented generation (RAG) systems, and microservices in production. Proficient in Python, LangChain, PyTorch, FastAPI, and Docker with cloud experience on AWS and GCP.
+
+TECHNICAL SKILLS
+- Programming: Python, TypeScript, SQL, Bash
+- Frameworks & Libraries: FastAPI, PyTorch, Scikit-learn, LangChain, LlamaIndex, Pandas, NumPy
+- Vector Databases: ChromaDB, Pinecone, FAISS
+- Cloud & DevOps: AWS (EC2, S3, Lambda), Docker, Git, CI/CD, Kubernetes
+- Generative AI: LLM fine-tuning, RAG pipelines, Prompt Engineering, OpenAI API, HuggingFace Transformers
+
+PROFESSIONAL EXPERIENCE
+Senior Machine Learning Engineer | DataVision Technologies | San Francisco, CA
+June 2022 – Present
+- Architected and deployed an enterprise RAG knowledge assistant using LangChain, ChromaDB, and OpenAI, reducing customer support resolution time by 42%.
+- Built high-throughput microservices using FastAPI and Docker, handling 2.5M daily inferences with sub-100ms latency on AWS ECS.
+- Designed vector indexing and hybrid search pipelines across 500,000+ technical documents, improving semantic retrieval recall by 28%.
+- Mentored 4 junior engineers on LLM evaluation frameworks and prompt engineering best practices.
+
+Software Engineer | CloudScale Solutions | San Jose, CA
+August 2020 – May 2022
+- Developed scalable REST APIs using Python and PostgreSQL for real-time analytics streaming pipelines.
+- Integrated automated CI/CD pipelines via GitHub Actions, decreasing release cycle from bi-weekly to daily.
+- Implemented data validation and ingestion pipelines with Pydantic and Celery, processing 10GB+ telemetry data daily.
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of California, Berkeley | 2016 – 2020
+GPA: 3.8 / 4.0 | Dean's Honor List
+
+PROJECTS
+- AI Code Reviewer: Open-source GitHub bot built with FastAPI and LLMs that automatically flags security vulnerabilities and code smells on pull requests (1.2k GitHub stars).
+- ResumeMatcher: Prototype RAG tool using ChromaDB and Sentence-Transformers to rank job candidates against JD embeddings.
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect – Associate (2023)

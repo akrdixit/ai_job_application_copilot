@@ -1,0 +1,22 @@
+Job Title: Senior AI / Generative AI Engineer
+Company: NextGen Intelligence
+Location: Remote (US) / San Francisco, CA
+
+About the Role:
+We are looking for a Senior Generative AI Engineer to lead the design and deployment of enterprise-grade AI agents and Retrieval-Augmented Generation (RAG) platforms. You will collaborate directly with product and engineering teams to transform unstructured organizational data into high-accuracy conversational AI systems.
+
+Responsibilities:
+- Build and scale RAG pipelines integrating state-of-the-art LLMs, vector databases (ChromaDB, Pinecone, or Milvus), and reranking models.
+- Develop robust, high-performance backend microservices using FastAPI, Python, and async architectures.
+- Implement continuous evaluation, guardrails, and telemetry for LLM hallucination reduction, latency, and token cost optimization.
+- Containerize and deploy services on Kubernetes and AWS cloud infrastructure.
+- Partner with product managers to define AI feature roadmaps and UX for conversational interfaces.
+
+Requirements & Qualifications:
+- 4+ years of professional software engineering experience with deep expertise in Python.
+- 2+ years of hands-on experience building and deploying LLM applications, RAG pipelines, or AI agents using frameworks such as LangChain or LlamaIndex.
+- Strong knowledge of vector search algorithms, embedding strategies, and vector databases (ChromaDB, Pinecone, Qdrant).
+- Experience with FastAPI, Docker, and AWS cloud services (ECS, EKS, Lambda).
+- Experience with Kubernetes orchestration and production observability tools (OpenTelemetry, Langfuse, or Datadog) is strongly preferred.
+- Bachelor's or Master's degree in Computer Science, Engineering, or equivalent practical experience.
+- Excellent communication skills and ability to thrive in a fast-paced environment.
